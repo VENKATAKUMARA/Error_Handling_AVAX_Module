@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-//Simpleerrorhandling (by raghav deshwal)
+//Simpleerrorhandling (by Venkat Kumar Leo)
 contract ErrorHandlingContract 
 {
     function _require_Ex(uint256 x) public pure returns (uint256) 
